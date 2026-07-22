@@ -14,6 +14,15 @@ This repository contains the complete workflow used to run and analyse four inde
 - *L. infantum* hinge mutant (P40A, S43A, P44A, Y49F)
 - *L. major* wild type
 - *L. major* hinge mutant (same four substitutions)
+- 
+ ## Input Structures
+
+The `structures/` folder contains the four AlphaFold-predicted PDB files used as simulation input:
+
+- `WildtypeInfactum.pdb` — L. infantum wild-type NTPDase1
+- `4MUTInfactum.pdb` — L. infantum hinge mutant (P40A, S43A, P44A, Y49F)
+- `WtLmajopr.pdb` — L. major wild-type NTPDase1
+- `Lmajor4mutataions.pdb` — L. major hinge mutant (same substitutions)
 
 ## Simulation Protocol
 
